@@ -84,5 +84,3 @@ Web Developer with a passion for creating responsive, visually appealing, and hi
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parveshshah4670@gmail.com)
 
 ---
-
-⭐️ From [parveshshah888-blip](https://github.com/parveshshah888-blip)
