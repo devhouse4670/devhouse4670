@@ -71,11 +71,11 @@ Web Developer with a passion for creating responsive, visually appealing, and hi
 
 ### 🚀 Featured Projects
 
-- 🎯 [VRM Exchange Platform](https://vrm.winexch.blog/) - Interactive web application
-- 🏢 [HR Tech Edge](https://hrtechedge.com/) - HR Technology Solutions
-- 📊 [Mar Tech Edge](https://martechedge.com/) - Marketing Technology Platform
-- 🤖 [Tech Edge AI](https://techedgeai.com/) - AI-powered solutions
-- 💆 [Aesthetic World Clinic](https://aestheticworldllc.com/) - Medical aesthetics website
+- 🎯 [VRM Exchange Platform](https://vrm.winexch.blog/) - Interactive web application(React.js | Node.js | MongoD)
+- 🏢 [HR Tech Edge](https://hrtechedge.com/) - HR Technology Solutions (WordPress | PHP)
+- 📊 [Mar Tech Edge](https://martechedge.com/) - Marketing Technology Platform  (HTML | CSS | PHP  | Laravel)
+- 🤖 [Tech Edge AI](https://techedgeai.com/) - AI-powered solutions (WordPress | PHP)
+- 💆 [Aesthetic World Clinic](https://aestheticworldllc.com/) - Medical aesthetics website   (HTML | CSS)
 
 
 ### 🤝 Let's Connect
